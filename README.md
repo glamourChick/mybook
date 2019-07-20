@@ -1,2 +1,2 @@
 # mybook
-my book
+一本小说
